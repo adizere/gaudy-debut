@@ -1,2 +1,2 @@
-# gaudy
+# gaudy-debut
 Erlang playground.
